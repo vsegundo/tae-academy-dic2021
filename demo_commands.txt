@@ -1,0 +1,43 @@
+# -------------------------------------------------------------
+# Clone repository (this is only done once!)
+# -------------------------------------------------------------
+
+git clone https://github.com/vsegundo/tae-academy-dic2021.git
+
+
+# -------------------------------------------------------------
+# Create a new branch named 'demo'
+# -------------------------------------------------------------
+git checkout -b demo
+
+
+# -------------------------------------------------------------
+# Perform changes to files
+# -------------------------------------------------------------
+Modify, delete, move some files!
+
+# ------------------------------------------------------------
+# Add changes to staging area
+# ------------------------------------------------------------
+
+# To add individual files or folders
+git add [file-path]
+
+# To add all files (not recommended for beginners)
+git add . 
+
+
+# ------------------------------------------------------------
+# Commit changes  (aka move changes to staging area)
+# ------------------------------------------------------------
+git commit -m "Some meaningful and concise message" 
+
+
+# ------------------------------------------------------------
+# Push changes to upstream, using a new branch also called 'demo' 
+# -------------------------------------------------------------
+git push -u origin demo
+
+
+
+
