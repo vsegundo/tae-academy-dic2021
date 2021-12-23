@@ -2,3 +2,4 @@ Name or nickname           |    Date              | Message
 ---------------------------|----------------------|---------------------
 Israel                     | Dec 21st, 2021       | Hello, friend!
 Alfonso			   | Dec 23rd, 2021       | Hello, world!
+Fran			   | Dec 23rd, 2021       | Hello, team!
