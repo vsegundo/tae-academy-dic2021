@@ -1,4 +1,7 @@
 Name or nickname           |    Date              | Message
 ---------------------------|----------------------|---------------------
 Israel                     | Dec 21st, 2021       | Hello, friend!
-Alfonso			   | Dec 23rd, 2021       | Hello, world!
+Leo                        | Dec 22nd, 2021.      | Kept you waiting huh?
+Ezequiel                   | Dec 22nd, 2021       | Hi peers!
+Alfonso                    | Dec 23rd, 2021       | Hello, world!
+Fran                       | Dec 23rd, 2021       | Hello, team!
