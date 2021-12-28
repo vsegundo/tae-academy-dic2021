@@ -5,3 +5,4 @@ Leo                        | Dec 22nd, 2021.      | Kept you waiting huh?
 Ezequiel                   | Dec 22nd, 2021       | Hi peers!
 Alfonso                    | Dec 23rd, 2021       | Hello, world!
 Fran                       | Dec 23rd, 2021       | Hello, team!
+Mariana			   | Dec 28th, 2021       | Hello, team!
